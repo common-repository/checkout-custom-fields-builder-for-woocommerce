@@ -1,0 +1,927 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WuCheckout - Custom Fields Builder for WooCommerce "
+"Checkout\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-02 05:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.10; wp-6.5.5\n"
+"X-Domain: checkout-custom-fields-builder-for-woocommerce"
+
+#: includes/Admin/Field.php:259
+msgid "[WooCommerce Default field]"
+msgstr ""
+
+#: includes/Admin/Sections.php:42
+msgid "Account Details"
+msgstr ""
+
+#: includes/Admin/Notices.php:79
+msgid "Activate % s"
+msgstr ""
+
+#: templates/frontend/checkout/form-additional-fields.php:32
+msgid "Additional information"
+msgstr ""
+
+#: includes/Admin/Fields.php:170
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:601
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:726
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:895
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1230
+msgid "Advanced"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:508
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:696
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:865
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:2065
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:2394
+msgid "Alignment"
+msgstr ""
+
+#: includes/Admin/Fields.php:208 includes/Admin/Fields.php:249
+msgid "Allowed Characters (Regex)"
+msgstr ""
+
+#: includes/Admin/Options.php:41 includes/Admin/Options.php:258
+msgid "An unexpected error occurred"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:240
+msgid "Apply coupon"
+msgstr ""
+
+#: templates/admin/components/modals/delete-item.php:23
+msgid "Are you sure you want to delete this section and all items in it?"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1991
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:2020
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:2535
+msgid "Background"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:547
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:735
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:904
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1077
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1298
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:2215
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:2233
+msgid "Background Color"
+msgstr ""
+
+#: includes/Admin/Fields.php:402
+msgid "Billing Address"
+msgstr ""
+
+#: includes/Frontend/Gutenberg.php:60
+msgid "Billing Address Fields"
+msgstr ""
+
+#: includes/Admin/Sections.php:24
+msgid "Billing Details"
+msgstr ""
+
+#: assets/blocks/block.json:1
+msgctxt "block title"
+msgid "Checkout Custom Fields Builder For Woocommerce"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:572
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:782
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:951
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1175
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1325
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1335
+msgid "Border"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1259
+msgid "Border Focus Color"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:588
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:791
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:960
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1210
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1360
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1910
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1965
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:2508
+msgid "Border Radius"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1317
+msgid "Box Shadow"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1948
+msgid "Button"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:289
+msgid "Button Text"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:238
+msgid "Button text"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:2002
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:2031
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:2546
+msgid "Button Text Color"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:2373
+msgid "Button Width (in %)"
+msgstr ""
+
+#: templates/admin/components/field/edit-panel.php:32
+#: templates/admin/components/modals/delete-item.php:29
+#: templates/admin/components/sections/heading.php:44
+#: templates/admin/components/sections/heading.php:45
+msgid "Cancel"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:516
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:704
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:873
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:2073
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:2402
+msgid "Center"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Change the WooCommerce checkout page to fit your needs. Add, remove, and "
+"edit fields and make the checkout process simple and personalized for your "
+"online store."
+msgstr ""
+
+#: includes/Admin/Options.php:47 includes/Admin/Options.php:269
+msgid "Changes saved"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1450
+msgid "Checkbox for shipping fields"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:164
+msgid "Checkbox Text"
+msgstr ""
+
+#: includes/Admin/Admin_Menu.php:16 includes/Admin/Admin_Menu.php:17
+msgid "Checkout Builder"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:281
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:2365
+msgid "Checkout Button"
+msgstr ""
+
+#. Name of the plugin
+msgid "Checkout Custom Fields Builder for WooCommerce"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:24
+msgid "Checkout Form"
+msgstr ""
+
+#: includes/Admin/Fields.php:463
+msgid "Choose an option"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:231
+msgid "Click here to enter your code"
+msgstr ""
+
+#: templates/admin/components/field/edit-panel.php:17
+msgid "Close"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1635
+msgid "Code Color"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:685
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:853
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1022
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1065
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1119
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1163
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1459
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1535
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1581
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1699
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1745
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1766
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1821
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1863
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:2156
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:2197
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:2281
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:2338
+msgid "Color"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:539
+msgid "Colors"
+msgstr ""
+
+#: includes/Admin/Fields.php:398
+msgid "Contact Information"
+msgstr ""
+
+#: includes/Frontend/Gutenberg.php:45
+msgid "Contact Information Fields"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:337
+msgid "Content Color"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:203
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1782
+msgid "Coupon"
+msgstr ""
+
+#. %s coupon code
+#: includes/Frontend/Woocommerce.php:72
+#, php-format
+msgid "Coupon \"%s\" does not exist!"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1593
+#: templates/frontend/checkout/form-coupon.php:30
+msgid "Coupon code"
+msgstr ""
+
+#: templates/frontend/checkout/form-coupon.php:29
+msgid "Coupon:"
+msgstr ""
+
+#: templates/frontend/checkout/form-account-fields.php:30
+msgid "Create an account?"
+msgstr ""
+
+#: includes/Admin/Fields.php:434
+msgid "Custom Class Name"
+msgstr ""
+
+#: includes/Admin/Fields.php:135
+msgid "Date picker"
+msgstr ""
+
+#: includes/Admin/Fields.php:189 includes/Admin/Fields.php:226
+#: includes/Admin/Fields.php:267 includes/Admin/Fields.php:320
+#: includes/Admin/Fields.php:494
+msgid "Default Value"
+msgstr ""
+
+#: templates/admin/components/modals/delete-item.php:19
+msgid "Delete"
+msgstr ""
+
+#: includes/Admin/Fields.php:386
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:151
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:220
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:268
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:814
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1132
+msgid "Description"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:123
+msgid "Description text"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1757
+msgid "Divider"
+msgstr ""
+
+#: templates/admin/components/field/list-actions.php:25
+msgid "Draggable field"
+msgstr ""
+
+#: templates/admin/components/sections/heading.php:23
+msgid "Draggable section"
+msgstr ""
+
+#: includes/Admin/Fields.php:111
+msgid "Drop-Down"
+msgstr ""
+
+#: templates/admin/components/actions.php:20
+#: templates/admin/components/actions.php:24
+msgid "Edit checkout page"
+msgstr ""
+
+#: templates/admin/components/field/list-actions.php:22
+#: templates/admin/components/sections/heading.php:31
+msgid "Editing a section heading"
+msgstr ""
+
+#: templates/admin/components/modals/selecting-editor.php:34
+msgid "Elementor"
+msgstr ""
+
+#: templates/admin/sidebar.php:20
+msgid "Elements"
+msgstr ""
+
+#: includes/Admin/Fields.php:91
+msgid "Email"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:100
+msgid "Enable"
+msgstr ""
+
+#: includes/Admin/Fields.php:420
+msgid "Enable/Disable Field"
+msgstr ""
+
+#: includes/Admin/Fields.php:190 includes/Admin/Fields.php:227
+#: includes/Admin/Fields.php:268 includes/Admin/Fields.php:321
+msgid "Enter default value"
+msgstr ""
+
+#: includes/Admin/Fields.php:387
+msgid "Enter description"
+msgstr ""
+
+#: includes/Admin/Fields.php:372
+msgid "Enter label"
+msgstr ""
+
+#: includes/Admin/Fields.php:197 includes/Admin/Fields.php:234
+msgid "Enter max length"
+msgstr ""
+
+#: includes/Admin/Fields.php:282
+msgid "Enter max. value"
+msgstr ""
+
+#: includes/Admin/Fields.php:275
+msgid "Enter min. value"
+msgstr ""
+
+#: includes/Admin/Fields.php:380 includes/Admin/Fields.php:461
+msgid "Enter placeholder"
+msgstr ""
+
+#: includes/Admin/Fields.php:241
+msgid "Enter rows"
+msgstr ""
+
+#: includes/Admin/Fields.php:289
+msgid "Enter step value"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:136
+msgid "Enter the additional details for order."
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:134
+msgid "Enter the address where you want your order delivered."
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:133
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:270
+msgid "Enter the billing address that matches your payment method."
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:135
+msgid "Enter the create account details."
+msgstr ""
+
+#: templates/admin/components/sections/heading.php:36
+msgid "Entering a section name"
+msgstr ""
+
+#: includes/Admin/Fields.php:215 includes/Admin/Fields.php:256
+msgid "Error Message"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1034
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1833
+msgid "Field"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:983
+msgid "Fields"
+msgstr ""
+
+#: includes/Admin/Fields.php:105
+msgid "File Upload"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1874
+msgid "Focus Color"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:313
+msgid "Font Family"
+msgstr ""
+
+#: includes/Admin/Sections.php:64
+msgid "Form"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:92
+msgid "Form Header"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:304
+msgid "Form Wrapper"
+msgstr ""
+
+#: templates/admin/components/modals/selecting-editor.php:25
+msgid "Gutenberg"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:213
+msgid "Have a coupon?"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:449
+msgid "Header"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:114
+msgid "Header text"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:645
+msgid "Heading"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1656
+msgid "Heading Typography"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:367
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:2014
+msgid "Hover"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://stylemixthemes.com/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://stylemixthemes.com/"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:222
+msgid "If you have a coupon code, please apply it below."
+msgstr ""
+
+#. %1$s plugin name & %2$s required plugin name
+#: includes/Admin/Notices.php:104
+#, php-format
+msgid "Install %s"
+msgstr ""
+
+#: includes/Admin/Fields.php:426
+msgid "Is Required"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:524
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:712
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:881
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:2081
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:2410
+msgid "Justified"
+msgstr ""
+
+#: includes/Admin/Fields.php:371 includes/Admin/Fields.php:469
+#: includes/Admin/Fields.php:473
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:991
+msgid "Label"
+msgstr ""
+
+#. %s last edited date
+#: includes/Admin/Options.php:135
+#, php-format
+msgid "Last Edited: %s"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:512
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:700
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:869
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:2069
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:2398
+msgid "Left"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1790
+msgid "Link"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:2292
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:2349
+msgid "Link Color"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:356
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:373
+msgid "Link color"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1678
+msgid "List Item Typography"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:415
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:622
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:762
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:931
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1425
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:2477
+msgid "Margin"
+msgstr ""
+
+#: includes/Admin/Fields.php:196 includes/Admin/Fields.php:233
+msgid "Max Length"
+msgstr ""
+
+#: includes/Admin/Fields.php:281
+msgid "Max. Value"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:2167
+msgid "Method Description"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:2126
+msgid "Method Name"
+msgstr ""
+
+#: includes/Admin/Fields.php:274
+msgid "Min. Value"
+msgstr ""
+
+#: includes/Admin/Fields.php:123
+msgid "Multiple Checkbox"
+msgstr ""
+
+#: includes/Admin/Fields.php:129
+msgid "Multiple Select"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:103
+msgid "No"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:350
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1985
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:2209
+msgid "Normal"
+msgstr ""
+
+#: templates/admin/components/field/types/select.php:34
+msgid "Not selected"
+msgstr ""
+
+#: includes/Admin/Fields.php:79
+msgid "Number"
+msgstr ""
+
+#: includes/Admin/Fields.php:216 includes/Admin/Fields.php:257
+msgid "Only for Allowed Characters Validation"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:229
+msgid "Open Button"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:2227
+msgid "Opened"
+msgstr ""
+
+#: includes/Frontend/Elementor.php:129
+msgid "optional"
+msgstr ""
+
+#: includes/Admin/Sections.php:51
+msgid "Order Details"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1496
+msgid "Order Summary"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:386
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:609
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:747
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:916
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1239
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1393
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1929
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:2095
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:2456
+msgid "Padding"
+msgstr ""
+
+#: includes/Admin/Fields.php:59
+msgid "Password Field"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:251
+msgid "Payment Gateways"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:2118
+msgid "Payment Methods"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:261
+msgid "Payment options"
+msgstr ""
+
+#: includes/Admin/Fields.php:84
+msgid "Phone number"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:291
+#: templates/frontend/checkout/payment-actions.php:12
+msgid "Place order"
+msgstr ""
+
+#: includes/Admin/Fields.php:379 includes/Admin/Fields.php:460
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1088
+msgid "Placeholder"
+msgstr ""
+
+#: templates/frontend/checkout/payment-actions.php:31
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: includes/Admin/Fields.php:393
+msgid "Position"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:325
+msgid "Primary Color"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:2251
+msgid "Privacy Policy"
+msgstr ""
+
+#: templates/admin/components/field/list-actions.php:35
+msgid "Pro Feature"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1504
+msgid "Product"
+msgstr ""
+
+#: includes/Admin/Fields.php:117
+msgid "Radio Button"
+msgstr ""
+
+#: templates/admin/components/field/list-actions.php:28
+msgid "Remove field"
+msgstr ""
+
+#: includes/Frontend/Elementor.php:128 templates/admin/components/field.php:47
+msgid "required"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:520
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:708
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:877
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:2077
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:2406
+msgid "Right"
+msgstr ""
+
+#: includes/Admin/Fields.php:240
+msgid "Rows"
+msgstr ""
+
+#: templates/admin/components/field/edit-panel.php:29
+#: templates/admin/components/sections/heading.php:41
+#: templates/admin/components/sections/heading.php:42
+msgid "Save"
+msgstr ""
+
+#: templates/admin/components/actions.php:31
+msgid "Save Changes"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1290
+msgid "Sections"
+msgstr ""
+
+#: includes/Admin/Fields.php:394 includes/Admin/Fields.php:495
+msgid "Select..."
+msgstr ""
+
+#: templates/frontend/checkout/form-billing.php:49
+msgid "Ship to a different address?"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1646
+msgid "Shipping"
+msgstr ""
+
+#: includes/Admin/Fields.php:406
+msgid "Shipping Address"
+msgstr ""
+
+#: includes/Frontend/Gutenberg.php:50
+msgid "Shipping Address Fields"
+msgstr ""
+
+#: includes/Admin/Sections.php:31
+msgid "Shipping Details"
+msgstr ""
+
+#: includes/Admin/Fields.php:410
+msgid "Shipping Methods"
+msgstr ""
+
+#: includes/Frontend/Gutenberg.php:55
+msgid "Shipping Methods Fields"
+msgstr ""
+
+#. $1 and $2 opening and closing emphasis tags respectively
+#: templates/frontend/checkout/payment-actions.php:41
+#, php-format
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the %1$sUpdate Totals%2$s button before placing your order. "
+"You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: templates/frontend/checkout/payment-actions.php:31
+msgid ""
+"Sorry, it seems that there are no available payment methods. Please contact "
+"us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#: includes/Admin/Fields.php:288
+msgid "Step Value"
+msgstr ""
+
+#. Author of the plugin
+msgid "StylemixThemes"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:121
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:488
+msgid "Subtitle"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1550
+msgid "Subtotal"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:2308
+msgid "Terms & Conditions"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:822
+msgid "Text"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:559
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1624
+msgid "Text Color"
+msgstr ""
+
+#: includes/Admin/Fields.php:54 includes/Admin/Fields.php:64
+#: includes/Admin/Fields.php:69
+msgid "Text Field"
+msgstr ""
+
+#: includes/Admin/Fields.php:74
+msgid "Textarea"
+msgstr ""
+
+#. %1$s plugin name & %2$s required plugin name
+#: includes/Admin/Notices.php:83
+#, php-format
+msgid "The %1$s is not working because you need to activate the %2$s plugin. "
+msgstr ""
+
+#. %1$s plugin name & %2$s required plugin name
+#: includes/Admin/Notices.php:112
+#, php-format
+msgid "The %1$s is not working because you need to install the %2$s plugin. "
+msgstr ""
+
+#. %s: Order history URL on My Account section
+#: includes/Frontend/Elementor.php:149
+#, php-format
+msgid ""
+"There was an error processing your order. Please check for any charges in "
+"your payment method and review your <a href=\"%s\">order history</a> before "
+"placing the order again."
+msgstr ""
+
+#: includes/Admin/Fields.php:141
+msgid "Time picker"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:112
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:211
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:259
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:467
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:653
+msgid "Title"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1714
+msgid "Total"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:457
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:663
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:832
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1001
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1044
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1098
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1142
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1471
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1514
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1560
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1603
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1724
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1800
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1843
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:2045
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:2136
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:2177
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:2260
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:2317
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:2425
+msgid "Typography"
+msgstr ""
+
+#: templates/frontend/checkout/payment-actions.php:43
+msgid "Update totals"
+msgstr ""
+
+#: includes/Admin/Fields.php:98
+msgid "URL"
+msgstr ""
+
+#: includes/Admin/Fields.php:209 includes/Admin/Fields.php:250
+msgid "Use regular expression"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:166
+msgid "Use same address for shipping"
+msgstr ""
+
+#: includes/Admin/Fields.php:301 includes/Admin/Fields.php:311
+msgid "Validation Error Message"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:1271
+msgid "Validation text color"
+msgstr ""
+
+#: includes/Admin/Fields.php:474
+msgid "Value"
+msgstr ""
+
+#: includes/Admin/Fields.php:470
+msgid "Value *"
+msgstr ""
+
+#: includes/Frontend/Elementor.php:190
+msgid "WuCheckout"
+msgstr ""
+
+#: includes/Frontend/Widgets/CCFBW_Elementor_Widget.php:102
+msgid "Yes"
+msgstr ""
+
+#: templates/admin/components/modals/delete-item.php:32
+msgid "Yes, Delete"
+msgstr ""
+
+#: templates/frontend/checkout/form-checkout.php:19
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: templates/frontend/checkout/review-order.php:11
+msgid "Your order"
+msgstr ""

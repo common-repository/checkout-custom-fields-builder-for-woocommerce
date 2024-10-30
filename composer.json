@@ -1,0 +1,14 @@
+{
+	"name": "checkout-custom-fields-builder-for-woocommerce/plugin",
+	"description": "Manage WooCommerce Checkout Form",
+	"require": {},
+	"autoload": {
+		"psr-4": {
+			"CCFBW\\Woocommerce\\Checkout\\Builder\\": "includes/"
+		}
+	},
+	"config": {
+		"platform-check": false,
+		"optimize-autoloader": true
+	}
+}
